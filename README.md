@@ -1,3 +1,4 @@
+# 原作者路径： https://github.com/xiaokaike/vue-color
 # vue-color 
 
 [![npm](https://img.shields.io/npm/v/vue-color.svg)](https://www.npmjs.com/package/vue-color)
